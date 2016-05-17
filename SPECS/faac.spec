@@ -1,6 +1,6 @@
 Name:           faac
 Version:        1.28
-Release:        6.0%{?dist}
+Release:        7.0%{?dist}
 Summary:        Encoder and encoding library for MPEG2/4 AAC
 
 Group:          Applications/Multimedia
@@ -80,6 +80,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_includedir}/*.h
 
 %changelog
+* Sun May 15 2016 Ricardo Arguello <rarguello@deskosproject.org> - 1.28-7
+- Rebuilt for DeskOS
+
 * Fri Jan 30 2015 Nux <rpm@li.nux.ro> - 1.28-6
 - update to build against newer libmp4v2, thanks Constantin
 - https://forums.nux.ro/index.php?t=msg&goto=2996

@@ -1,0 +1,6 @@
+= DeskOS: faac RPM
+
+This is the _faac_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/faac-1.28-6.0.el7.nux.src.rpm[faac-1.28-6.0.el7.nux.src.rpm]
